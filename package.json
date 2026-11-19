@@ -1,0 +1,26 @@
+{
+  "name": "api-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azevaldo/api-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/azevaldo/api-javascript/issues"
+  },
+  "homepage": "https://github.com/azevaldo/api-javascript#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^3.0.1"
+  }
+}
